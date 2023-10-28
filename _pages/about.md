@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at the facalty of Computer Science and Engineering, South China University of Technology (SCUT). I'm expected to graduate in 2024.
+I am an undergraduate student at the faculty of Computer Science and Engineering, South China University of Technology (SCUT). I'm expected to graduate in 2024.
 
 
 Research Interest and Strength
