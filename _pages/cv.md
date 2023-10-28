@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ningbo Xiaoshi High School, 2020
-* B.S. in Computer Science and Engineering, South China University of Technology (SCUT), 2024 (expected)
+* B.S. in Computer Science and Engineering, South China University of Technology (SCUT), 2024 (expected); GPA: 3.81/4; 89.53/100.
 
 
 Work experience
