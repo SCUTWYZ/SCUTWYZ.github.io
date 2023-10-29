@@ -23,17 +23,17 @@ Honors and Awards
 * SCUT Second Prize Scholarship, 2022
 * “Celera” Science and Technology Innovation Scholarship, 2021
 
-* 
+COMPETITION EXPERIENCE
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Outstanding Prize of Guangdong Province “Challenge Cup” College Student Curricular Academic 
+Science and Technology Works Competition. (TOP 8%; Team Vice-Captain), 05/2023
+* First Prize of Asia and Pacific Mathematical Contest in Modeling (APMCM). (TOP 5%), 02/2023
+* National First Prize and Innovation Silver Prize of “GBA Cup” Guangdong-Hong Kong-Macao
+Financial Mathematical contest in Modeling. (Ranks 2nd among all the teams), 12/2022
+* National Second Prize and Provincial First Prize of China Undergraduate Mathematical Contest in 
+Modeling (CUMCM). (TOP 3%), 10/2022
+* Provincial Second Prize of “Shenzhen Cup” Mathematical Contest in Modeling. (TOP 30%), 09/2022
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
