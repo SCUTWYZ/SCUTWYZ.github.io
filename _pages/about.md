@@ -19,7 +19,7 @@ I'm interested in the interdisciplinary fields like social computing and urban c
 3. The application of LLM, knowledge graph and other advanced AI technology in above fields;
 4. Other interesting issues in social computing and urban computing.
 
-<font color='red'> Now I'm looking for a chance to pursue PhD (or MPhil). If you are interested in my experience, please feel free to contact me!!! </font>
+<font color='red'> Now I'm looking for a PhD (or MPhil) chance. If you are interested in my experience, please feel free to contact me!!! </font>
 
 
 
