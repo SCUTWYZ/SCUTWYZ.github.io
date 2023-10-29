@@ -11,11 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ningbo Xiaoshi High School, 2020
-* B.S. in Computer Science and Engineering, South China University of Technology (SCUT), 2024 (expected); GPA: 3.81/4; 89.53/100.
+* Ningbo Xiaoshi High School, 2017-2020
+* B.S. in Computer Science and Engineering, South China University of Technology (SCUT), 2020-2024 (expected); GPA: 3.81/4, 89.53/100
 
 
-Work experience
+Honors and Awards
+======
+* National Scholarship, 2023
+* “Hongping-Changqing” First Prize Scholarship, 2023
+* Merit Student, 2021 and 2022
+* SCUT Second Prize Scholarship, 2022
+* “Celera” Science and Technology Innovation Scholarship, 2021
+
+* 
 ======
 * Summer 2015: Research Assistant
   * Github University
