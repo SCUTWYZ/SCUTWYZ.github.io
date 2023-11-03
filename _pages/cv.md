@@ -46,8 +46,7 @@ Online Community: A Case Study on Reddit’s Bitcoin Dataset. (Recent working pa
 Vehicle Trajectory Data, Device and Medium: ZL 2022 1 1018930.0, filed Aug 24, 2022 and issued July 
 18, 2023. (Invention patent)
 * [4] Haoming Chen, Peiqun Lin *, Yuzhi Wang et al. Research on Road Traffic Volume Estimation Based 
-on Limited Trajectory Data and LSTM. Abstract Compendium of 2022 World Transport Convention, 
-2022. (Extended abstract)
+on Limited Trajectory Data and LSTM. Abstract Compendium of 2022 World Transport Convention, 2022. (Extended abstract)
   
 
 A Brief Introduction to my research projects
