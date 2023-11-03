@@ -23,7 +23,7 @@ Honors and Awards
 * SCUT Second Prize Scholarship, 2022
 * “Celera” Science and Technology Innovation Scholarship, 2021
 
-COMPETITION EXPERIENCE
+Selected Competition Awards
 ======
 * Outstanding Prize of Guangdong Province “Challenge Cup” College Student Curricular Academic 
 Science and Technology Works Competition. (TOP 8%; Team Vice-Captain), 05/2023
@@ -37,19 +37,19 @@ Modeling (CUMCM). (TOP 3%), 10/2022
 
 Publications and Patents
 ======
-*[1] Yuzhi Wang, Weineng Chen *, A Link-Opinion Co-evolution Model with Multi-Objective Particle 
+* [1] Yuzhi Wang, Weineng Chen *, A Link-Opinion Co-evolution Model with Multi-Objective Particle 
 Swarm Optimizer for Social Network Conflict Minimization, IEEE Transactions on Computational Social 
 Systems (TCSS), under review.
-*[2] Yuzhi Wang *, Yixuan Xie et al. Text Sentiment Classification on Complicated Cryptocurrency 
+* [2] Yuzhi Wang *, Yixuan Xie et al. Text Sentiment Classification on Complicated Cryptocurrency 
 Online Community: A Case Study on Reddit’s Bitcoin Dataset. (Recent working paper, unsubmitted yet)
-*[3] Peiqun Lin *, Zhi Yu, Yuzhi Wang et al. Road Section Traffic Density Estimation Method Based on 
+* [3] Peiqun Lin *, Zhi Yu, Yuzhi Wang et al. Road Section Traffic Density Estimation Method Based on 
 Vehicle Trajectory Data, Device and Medium: ZL 2022 1 1018930.0, filed Aug 24, 2022 and issued July 
 18, 2023. (Invention patent)
-*[4] Haoming Chen, Peiqun Lin *, Yuzhi Wang et al. Research on Road Traffic Volume Estimation Based 
+* [4] Haoming Chen, Peiqun Lin *, Yuzhi Wang et al. Research on Road Traffic Volume Estimation Based 
 on Limited Trajectory Data and LSTM. Abstract Compendium of 2022 World Transport Convention, 
 2022. (Extended abstract)
   
 
 A Brief Introduction to my research projects
 ======
-<a href="scutwyz.github.io/research/index.html"> Please see here </a>
+<a href="https://scutwyz.github.io/research/index.html"> Please see here </a>
