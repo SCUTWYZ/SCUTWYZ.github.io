@@ -14,10 +14,9 @@ I am an undergraduate student at the faculty of Computer Science and Engineering
 Research Interest and Strength
 ======
 I'm interested in the interdisciplinary fields like social computing and urban computing. Specifically, I focus on the following issues:
-1. The emergence and evolution of swarm phenomenon, like social network opinions. Meanwhile, I focus on social media multimodal (like text, graph) mining, network dynamics modeling and intelligent optimization;
-2. Intelligent transportation, especially spatial-temporal prediction of road network traffic flow, the management and optimization of transportation system;
-3. The application of LLM, knowledge graph and other advanced AI technology in above fields;
-4. Other interesting issues in social computing and urban computing.
+1. The foundation models in these application fields, like graph model and spatio-temporal model.
+2. The modeling, mining and optimization methods in large-scale data scenario, like social network opinion analysis, urban transporation system management.
+3. The combinations with current hot topics, like LLM and knowledge graph.
 
 <font color='red'> Now I'm looking for a PhD (or MPhil) chance. If you are interested in my experience, please feel free to contact me!!! </font>
 
