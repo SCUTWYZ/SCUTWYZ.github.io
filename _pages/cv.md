@@ -34,34 +34,22 @@ Financial Mathematical contest in Modeling. (Ranks 2nd among all the teams), 12/
 Modeling (CUMCM). (TOP 3%), 10/2022
 * Provincial Second Prize of “Shenzhen Cup” Mathematical Contest in Modeling. (TOP 30%), 09/2022
 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Publications and Patents
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*[1] Yuzhi Wang, Weineng Chen *, A Link-Opinion Co-evolution Model with Multi-Objective Particle 
+Swarm Optimizer for Social Network Conflict Minimization, IEEE Transactions on Computational Social 
+Systems (TCSS), under review.
+*[2] Yuzhi Wang *, Yixuan Xie et al. Text Sentiment Classification on Complicated Cryptocurrency 
+Online Community: A Case Study on Reddit’s Bitcoin Dataset. (Recent working paper, unsubmitted yet)
+*[3] Peiqun Lin *, Zhi Yu, Yuzhi Wang et al. Road Section Traffic Density Estimation Method Based on 
+Vehicle Trajectory Data, Device and Medium: ZL 2022 1 1018930.0, filed Aug 24, 2022 and issued July 
+18, 2023. (Invention patent)
+*[4] Haoming Chen, Peiqun Lin *, Yuzhi Wang et al. Research on Road Traffic Volume Estimation Based 
+on Limited Trajectory Data and LSTM. Abstract Compendium of 2022 World Transport Convention, 
+2022. (Extended abstract)
   
-Talks
+
+A Brief Introduction to my research projects
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<a href="scutwyz.github.io/research/index.html"> Please see here </a>
